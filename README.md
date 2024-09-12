@@ -1,2 +1,3 @@
 # HTML-Form
-For this HTML form project, I created a self introduction form that includes text inputs, radio buttons, checkboxes, dropdowns, and submission buttons. This form is designed to get to know someone!
+This form includes a section for personal info, fun facts, and additional information. I created this form to get to know an individual better. 
+For example: It can be used for teachers to understand their students better or bosses to understand their employees better.
